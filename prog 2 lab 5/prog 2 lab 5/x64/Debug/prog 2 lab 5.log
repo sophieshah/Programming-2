@@ -1,0 +1,5 @@
+﻿  Shapes.cpp
+C:\prog 2 lab 5\prog 2 lab 5\Shapes.cpp(107,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\prog 2 lab 5\prog 2 lab 5\Shapes.cpp(160,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\prog 2 lab 5\prog 2 lab 5\Shapes.cpp(212,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  prog 2 lab 5.vcxproj -> C:\prog 2 lab 5\x64\Debug\prog 2 lab 5.exe
