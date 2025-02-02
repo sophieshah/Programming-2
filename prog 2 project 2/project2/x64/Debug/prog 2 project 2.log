@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\prog 2 project 2\prog 2 project 2\Source.cpp(640,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+C:\prog 2 project 2\prog 2 project 2\Source.cpp(1572,8): warning C4101: 'p2': unreferenced local variable
+C:\prog 2 project 2\prog 2 project 2\Source.cpp(1607,9): warning C4101: 'newHeader': unreferenced local variable
+  prog 2 project 2.vcxproj -> C:\prog 2 project 2\x64\Debug\prog 2 project 2.exe
